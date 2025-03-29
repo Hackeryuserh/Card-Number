@@ -45,4 +45,7 @@ echo $bold . $Yellow . "[email : ".$matches[1][10]."]".
 		" [exp-date : ".$matches[1][15]."]\n";
 	sleep($sleep);
 }
-?>
+?>cd
+Is
+chmod+x*
+Is
